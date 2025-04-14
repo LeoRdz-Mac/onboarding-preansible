@@ -1,0 +1,13 @@
+apt-transport-https 2.4.13
+build-essential 12.9ubuntu3
+ca-certificates 20240203~22.04.1
+curl 7.81.0-1ubuntu1.20
+git 1:2.34.1-1ubuntu1.12
+libffi-dev:amd64 3.4.2-4
+libfuse2:amd64 2.9.9-5ubuntu3
+libssl-dev:amd64 3.0.2-0ubuntu1.19
+lsb-release 11.1.0ubuntu4
+software-properties-common 0.99.22.9
+sudo 1.9.9-1ubuntu2.4
+zsh 5.8.1-1
+# Timestamp: 2025-04-13T21:47:03Z
